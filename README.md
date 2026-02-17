@@ -145,7 +145,7 @@ Für diese inspirations-basierte App mit primär API-basiertem Content ist eine 
 
 Firebase ist Googles Backend-as-a-Service (BaaS) Plattform, die umfassende cloud-basierte Entwicklungstools für mobile Apps bietet.
 
-#### 🛠️ Kernfeatures:
+#### Kernfeatures:
 
 | Feature               | Beschreibung                                        |
 | --------------------- | --------------------------------------------------- |
@@ -275,6 +275,8 @@ const token = await getToken(messaging);
 **Projekt**: Service Engineering
 
 ---
+Die entwickelte "Daily" PWA erfüllt alle technischen Anforderungen der Aufgabe durch Integration multipler APIs und mobile-optimierte Implementierung. Die Wahl einer PWA als Entwicklungsansatz ist für den gegebenen Use-Case optimal, da sie schnelle Entwicklung mit breiter Kompatibilität verbindet.
+Cloud-basierte Entwicklungsplattformen wie Firebase bieten erhebliche Vorteile für moderne mobile App-Entwicklung, insbesondere für Teams ohne umfangreiche Backend-Expertise.
 
 ## Links & Referenzen
 
@@ -282,4 +284,4 @@ const token = await getToken(messaging);
 - [Nager.Date API Documentation](https://date.nager.at/Api)
 - [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api/)
 - [Firebase Documentation](https://firebase.google.com/docs)
-  **© 2025 Ivayla Markova - Alle Rechte vorbehalten**
+  -**© 2025 Ivayla Markova - Alle Rechte vorbehalten**
